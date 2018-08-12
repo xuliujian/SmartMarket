@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--播放广告的界面单-->
+<AdvertisementSettings>
+  <!--播放模式[Mode]:循环播放/单次播放-->
+  <ProgramItem Type="" Name="" Mode="" Resource="" Duration="" />
+</AdvertisementSettings>
